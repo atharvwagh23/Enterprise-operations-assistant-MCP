@@ -1,0 +1,98 @@
+[
+  {
+    "customer_id": "C001",
+    "customer_name": "ABC Industries",
+    "industry": "Manufacturing",
+    "account_manager": "Rahul Mehta",
+    "annual_revenue": 12000000,
+    "status": "Active"
+  },
+  {
+    "customer_id": "C002",
+    "customer_name": "Northstar Retail",
+    "industry": "Retail",
+    "account_manager": "Priya Shah",
+    "annual_revenue": 8500000,
+    "status": "Active"
+  },
+  {
+    "customer_id": "C003",
+    "customer_name": "BluePeak Logistics",
+    "industry": "Logistics",
+    "account_manager": "Rahul Mehta",
+    "annual_revenue": 6400000,
+    "status": "Active"
+  },
+  {
+    "customer_id": "C004",
+    "customer_name": "Tata Motors Limited",
+    "industry": "Automotive",
+    "account_manager": "Siddharth Bose",
+    "annual_revenue": 45000000,
+    "status": "Active"
+  },
+  {
+    "customer_id": "C005",
+    "customer_name": "Flash Electronics",
+    "industry": "Manufacturing",
+    "account_manager": "Priya Shah",
+    "annual_revenue": 9200000,
+    "status": "Active"
+  },
+  {
+    "customer_id": "C006",
+    "customer_name": "Replete Business Solutions",
+    "industry": "Technology",
+    "account_manager": "Rahul Mehta",
+    "annual_revenue": 3100000,
+    "status": "Active"
+  },
+  {
+    "customer_id": "C007",
+    "customer_name": "Pune Metro Rail Corp",
+    "industry": "Transportation",
+    "account_manager": "Siddharth Bose",
+    "annual_revenue": 28000000,
+    "status": "Active"
+  },
+  {
+    "customer_id": "C008",
+    "customer_name": "Sheraton Grand Hospitality",
+    "industry": "Hospitality",
+    "account_manager": "Priya Shah",
+    "annual_revenue": 14000000,
+    "status": "Active"
+  },
+  {
+    "customer_id": "C009",
+    "customer_name": "Tanish Real Estate",
+    "industry": "Real Estate",
+    "account_manager": "Rahul Mehta",
+    "annual_revenue": 21000000,
+    "status": "Active"
+  },
+  {
+    "customer_id": "C010",
+    "customer_name": "Charholi Logistics",
+    "industry": "Logistics",
+    "account_manager": "Siddharth Bose",
+    "annual_revenue": 4200000,
+    "status": "Active"
+  },
+  {
+    "customer_id": "C011",
+    "customer_name": "FC Road Retail Group",
+    "industry": "Retail",
+    "account_manager": "Priya Shah",
+    "annual_revenue": 7600000,
+    "status": "Churned"
+  },
+  {
+    "customer_id": "C012",
+    "customer_name": "Shivaji Nagar Dining",
+    "industry": "Food & Beverage",
+    "account_manager": "Rahul Mehta",
+    "annual_revenue": 1800000,
+    "status": "Active"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "policy_id": "POL-001",
+    "title": "Databricks Access Policy",
+    "content": "Employees must request workspace access through the IT service desk. Access must be approved by the relevant manager and follow least-privilege principles. Production access requires additional authorization."
+  },
+  {
+    "policy_id": "POL-002",
+    "title": "Incident Management Policy",
+    "content": "High-priority incidents must be triaged promptly. The assigned support team must record investigation steps, communicate material status changes, and close an incident only after resolution is verified."
+  },
+  {
+    "policy_id": "POL-003",
+    "title": "Customer Data Handling Policy",
+    "content": "Customer information must be accessed only for authorized business purposes. Sensitive data must not be disclosed to unauthorized users or included in unapproved external services."
+  },
+  {
+    "policy_id": "POL-004",
+    "title": "AI and LLM Usage Policy",
+    "content": "Proprietary company code and sensitive customer data must not be submitted to public AI models. Approved APIs, such as the managed Groq LLaMA 3.1 endpoints, must be used for internal AI applications."
+  },
+  {
+    "policy_id": "POL-005",
+    "title": "Containerization and Deployment Policy",
+    "content": "All full-stack web applications must be containerized using Docker. Deployment orchestration must utilize Docker Compose to ensure environmental consistency across staging and production."
+  },
+  {
+    "policy_id": "POL-006",
+    "title": "Remote Work and VPN Policy",
+    "content": "Employees working remotely must connect to company resources via the approved corporate VPN. Public Wi-Fi networks must not be used without active VPN tunneling to ensure data encryption."
+  },
+  {
+    "policy_id": "POL-007",
+    "title": "Database Schema Modification Policy",
+    "content": "Changes to production MongoDB schemas must be reviewed by the Data Engineering lead. Automated backups must be verified immediately prior to executing schema migrations."
+  },
+  {
+    "policy_id": "POL-008",
+    "title": "Cloud Resource Tagging Policy",
+    "content": "All provisioned AWS cloud infrastructure must include mandatory tags: Environment, Owner, Project, and CostCenter. Untagged resources will be automatically terminated after 48 hours."
+  },
+  {
+    "policy_id": "POL-009",
+    "title": "Third-Party API Rate Limiting Policy",
+    "content": "External-facing applications must implement backoff strategies and local caching to prevent rate limit breaches on third-party APIs. Hardcoding API secrets in application repositories is strictly prohibited."
+  },
+  {
+    "policy_id": "POL-010",
+    "title": "Internship Mentorship Policy",
+    "content": "Interns must be assigned a dedicated project mentor and a designated supervisor. Weekly progress reports must be submitted detailing hands-on technical tasks and project milestones."
+  }
+]

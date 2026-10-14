@@ -1,0 +1,110 @@
+[
+  {
+    "ticket_id": "INC-1001",
+    "customer_id": "C001",
+    "priority": "High",
+    "status": "Open",
+    "category": "Access",
+    "assigned_to": "Arjun Patel",
+    "description": "Unable to access Databricks workspace"
+  },
+  {
+    "ticket_id": "INC-1002",
+    "customer_id": "C002",
+    "priority": "Medium",
+    "status": "In Progress",
+    "category": "Application",
+    "assigned_to": "Neha Kulkarni",
+    "description": "Sales dashboard refresh is delayed"
+  },
+  {
+    "ticket_id": "INC-1003",
+    "customer_id": "C001",
+    "priority": "Low",
+    "status": "Closed",
+    "category": "Access",
+    "assigned_to": "Arjun Patel",
+    "description": "Previous workspace access request"
+  },
+  {
+    "ticket_id": "INC-1004",
+    "customer_id": "C004",
+    "priority": "High",
+    "status": "Open",
+    "category": "Infrastructure",
+    "assigned_to": "Makarand Gangal",
+    "description": "AWS cloud storage bucket access denied for production environment"
+  },
+  {
+    "ticket_id": "INC-1005",
+    "customer_id": "C006",
+    "priority": "Medium",
+    "status": "In Progress",
+    "category": "Application",
+    "assigned_to": "Vinayak Nikam",
+    "description": "Power BI progress tracking dashboard failing to load municipal taxation data"
+  },
+  {
+    "ticket_id": "INC-1006",
+    "customer_id": "C007",
+    "priority": "High",
+    "status": "Open",
+    "category": "Hardware",
+    "assigned_to": "Makarand Gangal",
+    "description": "Power factor correction failure on primary solar power integration grid"
+  },
+  {
+    "ticket_id": "INC-1007",
+    "customer_id": "C005",
+    "priority": "Low",
+    "status": "Closed",
+    "category": "Software",
+    "assigned_to": "Chetan Wagh",
+    "description": "Update Docker Compose orchestration files for local testing"
+  },
+  {
+    "ticket_id": "INC-1008",
+    "customer_id": "C003",
+    "priority": "Medium",
+    "status": "Open",
+    "category": "Database",
+    "assigned_to": "Chetan Wagh",
+    "description": "MongoDB schema requires update to support new fragrance recommendation dataset"
+  },
+  {
+    "ticket_id": "INC-1009",
+    "customer_id": "C008",
+    "priority": "Medium",
+    "status": "In Progress",
+    "category": "Application",
+    "assigned_to": "Shilpa Bade",
+    "description": "TrueLineQA API rate limit exceeded on Groq LLaMA 3.1 endpoint"
+  },
+  {
+    "ticket_id": "INC-1010",
+    "customer_id": "C010",
+    "priority": "High",
+    "status": "Open",
+    "category": "Application",
+    "assigned_to": "Priyanshi Mulwani",
+    "description": "Streamlit web application throwing 500 error on document upload"
+  },
+  {
+    "ticket_id": "INC-1011",
+    "customer_id": "C012",
+    "priority": "Low",
+    "status": "Closed",
+    "category": "Documentation",
+    "assigned_to": "Atharv Joshi",
+    "description": "Update TrueLineQA documentation to reflect precision QA platform branding"
+  },
+  {
+    "ticket_id": "INC-1012",
+    "customer_id": "C009",
+    "priority": "Medium",
+    "status": "Open",
+    "category": "Software",
+    "assigned_to": "Sayli Haldavanekar",
+    "description": "Data processing pipeline failing on pdfplumber text extraction step"
+  }
+]

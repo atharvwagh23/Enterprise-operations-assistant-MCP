@@ -1,0 +1,98 @@
+[
+  {
+    "employee_id": "E101",
+    "name": "Priya Sharma",
+    "department": "Data Engineering",
+    "designation": "Senior Data Engineer",
+    "skills": ["Python", "Spark", "Azure", "Databricks"],
+    "leave_status": "No approved leave"
+  },
+  {
+    "employee_id": "E102",
+    "name": "Arjun Patel",
+    "department": "IT Operations",
+    "designation": "Cloud Engineer",
+    "skills": ["Azure", "Networking", "Security"],
+    "leave_status": "Approved leave"
+  },
+  {
+    "employee_id": "E103",
+    "name": "Neha Kulkarni",
+    "department": "Data Engineering",
+    "designation": "Data Engineer",
+    "skills": ["Python", "SQL", "Databricks", "dbt"],
+    "leave_status": "No approved leave"
+  },
+  {
+    "employee_id": "E104",
+    "name": "Chetan Wagh",
+    "department": "Software Development",
+    "designation": "Full Stack Developer",
+    "skills": ["Python", "Streamlit", "MongoDB", "Docker"],
+    "leave_status": "No approved leave"
+  },
+  {
+    "employee_id": "E105",
+    "name": "Shilpa Bade",
+    "department": "Data Science",
+    "designation": "AI Architect",
+    "skills": ["Python", "LLaMA 3.1", "Groq API", "NLP"],
+    "leave_status": "No approved leave"
+  },
+  {
+    "employee_id": "E106",
+    "name": "Sayli Haldavanekar",
+    "department": "Data Science",
+    "designation": "Machine Learning Engineer",
+    "skills": ["TensorFlow", "Scikit-Learn", "Pandas", "NumPy"],
+    "leave_status": "Approved leave"
+  },
+  {
+    "employee_id": "E107",
+    "name": "Makarand Gangal",
+    "department": "IT Operations",
+    "designation": "Cloud Infrastructure Lead",
+    "skills": ["AWS", "Cloud Storage", "Access Control", "Docker Compose"],
+    "leave_status": "No approved leave"
+  },
+  {
+    "employee_id": "E108",
+    "name": "Vinayak Nikam",
+    "department": "Analytics",
+    "designation": "BI Developer",
+    "skills": ["Power BI", "QGIS", "SQL", "Data Validation"],
+    "leave_status": "No approved leave"
+  },
+  {
+    "employee_id": "E109",
+    "name": "Priyanshi Mulwani",
+    "department": "Software Development",
+    "designation": "Frontend Developer",
+    "skills": ["JavaScript", "HTML", "CSS", "Streamlit"],
+    "leave_status": "Approved leave"
+  },
+  {
+    "employee_id": "E110",
+    "name": "Atharv Joshi",
+    "department": "Quality Assurance",
+    "designation": "QA Automation Engineer",
+    "skills": ["Selenium", "Python", "Pytest", "API Testing"],
+    "leave_status": "No approved leave"
+  },
+  {
+    "employee_id": "E111",
+    "name": "Tanu Deshmukh",
+    "department": "Human Resources",
+    "designation": "HR Business Partner",
+    "skills": ["Workday", "Recruitment", "Employee Relations"],
+    "leave_status": "No approved leave"
+  },
+  {
+    "employee_id": "E112",
+    "name": "Rohan Gupta",
+    "department": "Computer Vision",
+    "designation": "CV Engineer",
+    "skills": ["Python", "OpenCV", "Jupyter Notebook", "C++"],
+    "leave_status": "Approved leave"
+  }
+]
